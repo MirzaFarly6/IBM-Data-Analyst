@@ -1,4 +1,6 @@
 # IBM-Data-Analyst
+[Coursera YBP34XE8E5D6.pdf](https://github.com/MirzaFarly6/IBM-Data-Analyst/files/12445066/Coursera.YBP34XE8E5D6.pdf)
+
 Professional Data Analyst Certificate certified by IBM from Coursera
 
 https://www.coursera.org/professional-certificates/ibm-data-analyst
