@@ -1,11 +1,11 @@
 # IBM-Data-Analyst
-[Coursera YBP34XE8E5D6.pdf](https://github.com/MirzaFarly6/IBM-Data-Analyst/files/12445066/Coursera.YBP34XE8E5D6.pdf)
-
 Professional Data Analyst Certificate certified by IBM from Coursera
 
 https://www.coursera.org/professional-certificates/ibm-data-analyst
 
-contains 9 courses including:
+![image](https://github.com/MirzaFarly6/IBM-Data-Analyst/assets/130896996/b9c9a16d-570a-430f-a70b-074a0a44bf57)
+
+included 9 courses containing:
 1. Introduction to Data Analytics
    https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst
 2. Excel Basics for Data Analysis
